@@ -94,3 +94,6 @@
 [2005-03-17 01:58] feat(cdr_encoder): optimize SS7 message routing table [Sprint 2005.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-03-20 04:28] perf(isup): add hardware cacheline alignment padding [Sprint 2005.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
