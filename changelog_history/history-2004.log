@@ -94,3 +94,6 @@
 [2004-03-21 22:54] perf(dial_plan): optimize lock-free ring buffer [Sprint 2004.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-03-24 00:08] fix(dial_plan): integrate kernel bypass networking [Sprint 2004.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
