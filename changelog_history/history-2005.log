@@ -67,3 +67,6 @@
 [2005-02-20 02:24] docs(sccp): calibrate carrier call-drop telemetry [Sprint 2005.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-02-22 05:08] perf(slab_pool): calibrate carrier call-drop telemetry [Sprint 2005.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
