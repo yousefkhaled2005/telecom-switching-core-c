@@ -313,3 +313,6 @@
 [2004-10-17 21:26] test(cdr_encoder): integrate kernel bypass networking [Sprint 2004.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-10-20 21:42] docs(isup): tune zero-allocation memory slab [Sprint 2004.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
