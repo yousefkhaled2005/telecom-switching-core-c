@@ -85,3 +85,6 @@
 [2005-03-09 01:16] fix(rtp_relay): implement zero-copy DMA packet buffer [Sprint 2005.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-03-11 01:52] fix(mtp3): reduce P99 latency jitter under burst load [Sprint 2005.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
