@@ -181,3 +181,6 @@
 [2004-06-10 09:01] perf(slab_pool): integrate kernel bypass networking [Sprint 2004.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-06-12 11:38] fix(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2004.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
