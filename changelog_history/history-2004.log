@@ -250,3 +250,6 @@
 [2004-08-21 09:36] fix(ss7): calibrate carrier call-drop telemetry [Sprint 2004.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-08-25 12:52] perf(rtp_relay): tune zero-allocation memory slab [Sprint 2004.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
