@@ -307,3 +307,6 @@
 [2004-10-11 20:07] test(slab_pool): reduce P99 latency jitter under burst load [Sprint 2004.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-10-14 19:44] docs(packet_switch): optimize SS7 message routing table [Sprint 2004.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
