@@ -208,3 +208,6 @@
 [2004-07-07 02:46] refactor(mtp3): add hardware cacheline alignment padding [Sprint 2004.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-07-11 04:21] fix(dial_plan): optimize SS7 message routing table [Sprint 2004.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
