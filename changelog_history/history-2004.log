@@ -18,3 +18,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2004-11-10 16:25] perf(slab_pool): reduce P99 latency jitter under burst load in release cycle 2004.Q4
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
