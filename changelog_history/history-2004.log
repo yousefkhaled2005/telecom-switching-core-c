@@ -136,3 +136,6 @@
 [2004-04-28 14:02] fix(m3ua): tune zero-allocation memory slab [Sprint 2004.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-05-01 14:22] feat(packet_switch): add AVX SIMD vectorization pass [Sprint 2004.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
