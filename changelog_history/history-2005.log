@@ -106,3 +106,6 @@
 [2005-03-28 09:11] docs(mtp3): integrate kernel bypass networking [Sprint 2005.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-01 08:48] perf(sccp): optimize lock-free ring buffer [Sprint 2005.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
