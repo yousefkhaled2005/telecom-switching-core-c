@@ -10,3 +10,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2004-07-06 11:39] perf(ss7): harden SIMD cosine distance computation in release cycle 2004.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
