@@ -232,3 +232,6 @@
 [2004-08-01 01:43] test(dial_plan): integrate kernel bypass networking [Sprint 2004.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-08-04 02:46] perf(isup): reduce P99 latency jitter under burst load [Sprint 2004.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
