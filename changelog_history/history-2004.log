@@ -214,3 +214,6 @@
 [2004-07-14 02:28] docs(packet_switch): add hardware cacheline alignment padding [Sprint 2004.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-07-18 00:47] feat(dial_plan): add AVX SIMD vectorization pass [Sprint 2004.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
