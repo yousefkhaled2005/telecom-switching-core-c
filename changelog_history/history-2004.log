@@ -244,3 +244,6 @@
 [2004-08-14 04:50] test(slab_pool): optimize lock-free ring buffer [Sprint 2004.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-08-17 07:27] fix(m3ua): optimize SS7 message routing table [Sprint 2004.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
