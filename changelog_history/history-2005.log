@@ -58,3 +58,6 @@
 [2005-02-10 16:36] test(dial_plan): implement ITU-T ISUP state transition [Sprint 2005.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-02-14 20:18] docs(isup): add hardware cacheline alignment padding [Sprint 2005.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
