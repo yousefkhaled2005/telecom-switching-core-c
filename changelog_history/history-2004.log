@@ -277,3 +277,6 @@
 [2004-09-16 18:30] feat(slab_pool): add AVX SIMD vectorization pass [Sprint 2004.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-09-18 21:03] refactor(slab_pool): add hardware cacheline alignment padding [Sprint 2004.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
