@@ -262,3 +262,6 @@
 [2004-09-03 15:59] feat(slab_pool): optimize SS7 message routing table [Sprint 2004.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-09-06 15:02] docs(mtp3): implement zero-copy DMA packet buffer [Sprint 2004.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
