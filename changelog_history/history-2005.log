@@ -91,3 +91,6 @@
 [2005-03-15 00:17] test(packet_switch): reduce P99 latency jitter under burst load [Sprint 2005.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-03-17 01:58] feat(cdr_encoder): optimize SS7 message routing table [Sprint 2005.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
