@@ -199,3 +199,6 @@
 [2004-06-28 02:01] refactor(dial_plan): tune zero-allocation memory slab [Sprint 2004.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-07-01 01:45] test(mtp3): calibrate carrier call-drop telemetry [Sprint 2004.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
