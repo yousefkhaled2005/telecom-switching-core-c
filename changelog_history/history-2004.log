@@ -22,3 +22,6 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2004-01-08 08:25] feat(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2004.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
