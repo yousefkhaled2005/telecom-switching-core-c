@@ -103,3 +103,6 @@
 [2004-03-31 03:21] feat(mtp3): reduce P99 latency jitter under burst load [Sprint 2004.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-04-03 02:02] fix(cdr_encoder): add hardware cacheline alignment padding [Sprint 2004.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
