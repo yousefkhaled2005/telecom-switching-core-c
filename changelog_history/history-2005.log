@@ -61,3 +61,6 @@
 [2005-02-14 20:18] docs(isup): add hardware cacheline alignment padding [Sprint 2005.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-02-16 23:36] docs(m3ua): integrate kernel bypass networking [Sprint 2005.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
