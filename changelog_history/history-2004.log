@@ -100,3 +100,6 @@
 [2004-03-27 00:39] docs(cdr_encoder): calibrate carrier call-drop telemetry [Sprint 2004.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-03-31 03:21] feat(mtp3): reduce P99 latency jitter under burst load [Sprint 2004.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
