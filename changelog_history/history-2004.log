@@ -106,3 +106,6 @@
 [2004-04-03 02:02] fix(cdr_encoder): add hardware cacheline alignment padding [Sprint 2004.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-04-05 03:07] feat(isup): integrate kernel bypass networking [Sprint 2004.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
