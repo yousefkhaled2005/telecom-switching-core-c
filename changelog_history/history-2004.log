@@ -73,3 +73,6 @@
 [2004-02-29 08:26] test(isup): tune zero-allocation memory slab [Sprint 2004.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-03-04 11:13] docs(dial_plan): tune zero-allocation memory slab [Sprint 2004.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
