@@ -85,3 +85,6 @@
 [2004-03-11 18:37] refactor(cdr_encoder): integrate kernel bypass networking [Sprint 2004.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-03-14 21:42] docs(cdr_encoder): optimize lock-free ring buffer [Sprint 2004.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
