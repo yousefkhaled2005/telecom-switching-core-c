@@ -61,3 +61,6 @@
 [2004-02-16 01:53] perf(ss7): tune zero-allocation memory slab [Sprint 2004.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-02-20 04:20] test(sccp): add AVX SIMD vectorization pass [Sprint 2004.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
