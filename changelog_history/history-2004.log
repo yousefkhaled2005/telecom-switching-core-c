@@ -67,3 +67,6 @@
 [2004-02-24 06:41] fix(packet_switch): implement ITU-T ISUP state transition [Sprint 2004.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-02-27 07:02] docs(mtp3): optimize SS7 message routing table [Sprint 2004.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
