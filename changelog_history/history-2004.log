@@ -379,3 +379,6 @@
 [2004-12-25 00:02] refactor(m3ua): optimize SS7 message routing table [Sprint 2004.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-12-26 22:03] refactor(m3ua): add hardware cacheline alignment padding [Sprint 2004.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
