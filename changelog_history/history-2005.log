@@ -31,3 +31,6 @@
 [2005-01-12 17:05] feat(rtp_relay): implement zero-copy DMA packet buffer [Sprint 2005.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-01-15 15:37] feat(isup): add AVX SIMD vectorization pass [Sprint 2005.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
