@@ -28,3 +28,6 @@
 [2004-01-12 08:26] refactor(rtp_relay): add AVX SIMD vectorization pass [Sprint 2004.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-01-15 08:27] refactor(mtp3): integrate kernel bypass networking [Sprint 2004.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
