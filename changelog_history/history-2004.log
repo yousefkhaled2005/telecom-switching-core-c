@@ -169,3 +169,6 @@
 [2004-05-30 23:08] docs(sccp): implement ITU-T ISUP state transition [Sprint 2004.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-06-03 02:33] test(ss7): implement ITU-T ISUP state transition [Sprint 2004.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
