@@ -1,0 +1,4 @@
+[2004-01-08 17:47] refactor(dial_plan): optimize lock-free ring buffer in release cycle 2004.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
