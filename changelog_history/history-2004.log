@@ -220,3 +220,6 @@
 [2004-07-20 01:10] fix(rtp_relay): optimize SS7 message routing table [Sprint 2004.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-07-22 00:48] feat(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2004.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
