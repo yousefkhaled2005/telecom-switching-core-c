@@ -91,3 +91,6 @@
 [2004-03-17 21:32] perf(packet_switch): implement ITU-T ISUP state transition [Sprint 2004.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-03-21 22:54] perf(dial_plan): optimize lock-free ring buffer [Sprint 2004.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
