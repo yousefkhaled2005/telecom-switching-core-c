@@ -160,3 +160,6 @@
 [2004-05-21 01:01] fix(mtp3): add hardware cacheline alignment padding [Sprint 2004.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-05-23 02:25] refactor(m3ua): implement zero-copy DMA packet buffer [Sprint 2004.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
