@@ -226,3 +226,6 @@
 [2004-07-25 04:06] feat(packet_switch): tune zero-allocation memory slab [Sprint 2004.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-07-28 03:20] refactor(cdr_encoder): integrate kernel bypass networking [Sprint 2004.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
