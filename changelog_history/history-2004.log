@@ -14,3 +14,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2004-09-17 17:40] refactor(ss7): introduce Chandy-Lamport snapshot barrier in release cycle 2004.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
