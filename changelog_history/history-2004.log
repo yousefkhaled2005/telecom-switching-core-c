@@ -349,3 +349,6 @@
 [2004-11-26 18:17] fix(ss7): add AVX SIMD vectorization pass [Sprint 2004.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-11-29 22:04] refactor(sccp): add hardware cacheline alignment padding [Sprint 2004.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
