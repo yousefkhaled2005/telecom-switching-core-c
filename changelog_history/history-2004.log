@@ -58,3 +58,6 @@
 [2004-02-14 00:30] docs(mtp3): implement ITU-T ISUP state transition [Sprint 2004.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-02-16 01:53] perf(ss7): tune zero-allocation memory slab [Sprint 2004.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
