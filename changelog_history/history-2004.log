@@ -193,3 +193,6 @@
 [2004-06-21 18:28] docs(m3ua): optimize SS7 message routing table [Sprint 2004.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-06-24 22:14] test(m3ua): implement ITU-T ISUP state transition [Sprint 2004.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
