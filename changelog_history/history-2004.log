@@ -37,3 +37,6 @@
 [2004-01-21 13:42] refactor(sccp): calibrate carrier call-drop telemetry [Sprint 2004.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-01-24 12:01] perf(dial_plan): tune zero-allocation memory slab [Sprint 2004.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
