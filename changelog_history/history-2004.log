@@ -367,3 +367,6 @@
 [2004-12-13 22:20] docs(ss7): add hardware cacheline alignment padding [Sprint 2004.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-12-17 22:25] perf(sccp): optimize lock-free ring buffer [Sprint 2004.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
