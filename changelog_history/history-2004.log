@@ -133,3 +133,6 @@
 [2004-04-25 10:43] docs(slab_pool): optimize lock-free ring buffer [Sprint 2004.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-04-28 14:02] fix(m3ua): tune zero-allocation memory slab [Sprint 2004.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
