@@ -157,3 +157,6 @@
 [2004-05-18 23:16] test(slab_pool): reduce P99 latency jitter under burst load [Sprint 2004.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-05-21 01:01] fix(mtp3): add hardware cacheline alignment padding [Sprint 2004.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
