@@ -331,3 +331,6 @@
 [2004-11-04 03:38] refactor(m3ua): tune zero-allocation memory slab [Sprint 2004.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-11-08 03:53] fix(packet_switch): implement ITU-T ISUP state transition [Sprint 2004.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
