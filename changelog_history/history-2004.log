@@ -187,3 +187,6 @@
 [2004-06-15 13:56] fix(cdr_encoder): tune zero-allocation memory slab [Sprint 2004.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-06-19 16:11] feat(sccp): add AVX SIMD vectorization pass [Sprint 2004.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
