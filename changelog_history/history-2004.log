@@ -325,3 +325,6 @@
 [2004-10-29 01:05] perf(m3ua): tune zero-allocation memory slab [Sprint 2004.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-11-02 01:06] test(ss7): add AVX SIMD vectorization pass [Sprint 2004.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
