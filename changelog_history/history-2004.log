@@ -355,3 +355,6 @@
 [2004-12-01 22:50] refactor(dial_plan): tune zero-allocation memory slab [Sprint 2004.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-12-05 02:00] test(cdr_encoder): tune zero-allocation memory slab [Sprint 2004.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
