@@ -112,3 +112,6 @@
 [2004-04-09 05:57] perf(dial_plan): add AVX SIMD vectorization pass [Sprint 2004.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-04-11 04:37] fix(m3ua): tune zero-allocation memory slab [Sprint 2004.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
