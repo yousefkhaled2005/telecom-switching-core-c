@@ -238,3 +238,6 @@
 [2004-08-08 04:02] perf(sccp): integrate kernel bypass networking [Sprint 2004.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-08-11 02:04] test(packet_switch): add AVX SIMD vectorization pass [Sprint 2004.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
