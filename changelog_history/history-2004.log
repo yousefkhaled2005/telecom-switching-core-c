@@ -163,3 +163,6 @@
 [2004-05-23 02:25] refactor(m3ua): implement zero-copy DMA packet buffer [Sprint 2004.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-05-27 00:53] fix(m3ua): implement ITU-T ISUP state transition [Sprint 2004.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
