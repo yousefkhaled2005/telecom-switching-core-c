@@ -52,3 +52,6 @@
 [2004-02-06 22:02] feat(dial_plan): implement ITU-T ISUP state transition [Sprint 2004.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-02-11 01:19] refactor(dial_plan): implement ITU-T ISUP state transition [Sprint 2004.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
