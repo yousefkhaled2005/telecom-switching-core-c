@@ -196,3 +196,6 @@
 [2004-06-24 22:14] test(m3ua): implement ITU-T ISUP state transition [Sprint 2004.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2004-06-28 02:01] refactor(dial_plan): tune zero-allocation memory slab [Sprint 2004.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
