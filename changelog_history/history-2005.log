@@ -115,3 +115,6 @@
 [2005-04-05 10:05] refactor(dial_plan): reduce P99 latency jitter under burst load [Sprint 2005.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-07 13:06] docs(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2005.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
