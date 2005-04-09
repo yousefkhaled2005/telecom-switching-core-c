@@ -118,3 +118,6 @@
 [2005-04-07 13:06] docs(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2005.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-09 14:32] perf(slab_pool): implement ITU-T ISUP state transition [Sprint 2005.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
