@@ -127,3 +127,6 @@
 [2005-04-14 18:01] test(sccp): reduce P99 latency jitter under burst load [Sprint 2005.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-16 20:37] fix(slab_pool): implement ITU-T ISUP state transition [Sprint 2005.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
