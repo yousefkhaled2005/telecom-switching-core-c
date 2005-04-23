@@ -136,3 +136,6 @@
 [2005-04-21 18:57] fix(ss7): add AVX SIMD vectorization pass [Sprint 2005.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-23 19:11] docs(mtp3): add AVX SIMD vectorization pass [Sprint 2005.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
