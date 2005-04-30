@@ -142,3 +142,6 @@
 [2005-04-26 19:50] feat(ss7): optimize SS7 message routing table [Sprint 2005.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-04-30 21:15] perf(mtp3): integrate kernel bypass networking [Sprint 2005.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
