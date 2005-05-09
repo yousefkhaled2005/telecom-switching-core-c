@@ -151,3 +151,6 @@
 [2005-05-06 21:30] perf(slab_pool): implement zero-copy DMA packet buffer [Sprint 2005.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-05-09 22:58] test(slab_pool): reduce P99 latency jitter under burst load [Sprint 2005.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
