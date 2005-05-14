@@ -6,3 +6,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2005-05-14 9:52] feat(rtp_relay): calibrate carrier call-drop telemetry in release cycle 2005.Q2
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
