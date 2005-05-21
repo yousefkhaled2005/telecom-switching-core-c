@@ -163,3 +163,6 @@
 [2005-05-17 05:33] docs(dial_plan): integrate kernel bypass networking [Sprint 2005.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-05-21 06:16] test(ss7): implement zero-copy DMA packet buffer [Sprint 2005.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
