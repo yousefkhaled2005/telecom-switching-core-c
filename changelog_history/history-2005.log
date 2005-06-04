@@ -175,3 +175,6 @@
 [2005-05-31 08:22] test(packet_switch): implement ITU-T ISUP state transition [Sprint 2005.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-06-04 10:58] perf(mtp3): reduce P99 latency jitter under burst load [Sprint 2005.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
