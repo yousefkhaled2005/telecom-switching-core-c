@@ -184,3 +184,6 @@
 [2005-06-10 11:15] docs(mtp3): implement zero-copy DMA packet buffer [Sprint 2005.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-06-14 10:57] feat(mtp3): add AVX SIMD vectorization pass [Sprint 2005.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
