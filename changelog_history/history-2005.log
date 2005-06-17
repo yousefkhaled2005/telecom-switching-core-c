@@ -187,3 +187,6 @@
 [2005-06-14 10:57] feat(mtp3): add AVX SIMD vectorization pass [Sprint 2005.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-06-17 10:15] test(ss7): tune zero-allocation memory slab [Sprint 2005.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
