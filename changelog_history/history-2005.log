@@ -202,3 +202,6 @@
 [2005-06-27 15:16] test(packet_switch): add AVX SIMD vectorization pass [Sprint 2005.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-06-30 18:36] perf(dial_plan): integrate kernel bypass networking [Sprint 2005.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
