@@ -208,3 +208,6 @@
 [2005-07-04 21:00] docs(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2005.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-07-06 20:06] docs(packet_switch): optimize SS7 message routing table [Sprint 2005.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
