@@ -211,3 +211,6 @@
 [2005-07-06 20:06] docs(packet_switch): optimize SS7 message routing table [Sprint 2005.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-07-09 21:38] fix(sccp): tune zero-allocation memory slab [Sprint 2005.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
