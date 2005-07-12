@@ -214,3 +214,6 @@
 [2005-07-09 21:38] fix(sccp): tune zero-allocation memory slab [Sprint 2005.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-07-12 20:00] perf(dial_plan): integrate kernel bypass networking [Sprint 2005.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
