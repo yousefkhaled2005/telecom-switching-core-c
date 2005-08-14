@@ -247,3 +247,6 @@
 [2005-08-10 19:37] fix(packet_switch): implement ITU-T ISUP state transition [Sprint 2005.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-08-14 20:05] docs(packet_switch): tune zero-allocation memory slab [Sprint 2005.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
