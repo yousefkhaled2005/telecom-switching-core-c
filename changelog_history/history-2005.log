@@ -253,3 +253,6 @@
 [2005-08-18 18:48] test(slab_pool): implement ITU-T ISUP state transition [Sprint 2005.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-08-21 19:16] fix(ss7): integrate kernel bypass networking [Sprint 2005.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
