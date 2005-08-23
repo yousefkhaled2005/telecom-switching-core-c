@@ -256,3 +256,6 @@
 [2005-08-21 19:16] fix(ss7): integrate kernel bypass networking [Sprint 2005.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-08-23 21:28] feat(ss7): add hardware cacheline alignment padding [Sprint 2005.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
