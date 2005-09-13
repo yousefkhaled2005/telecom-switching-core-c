@@ -277,3 +277,6 @@
 [2005-09-11 04:41] refactor(ss7): calibrate carrier call-drop telemetry [Sprint 2005.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-09-13 03:01] perf(dial_plan): add hardware cacheline alignment padding [Sprint 2005.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
