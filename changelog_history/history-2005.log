@@ -286,3 +286,6 @@
 [2005-09-21 03:30] perf(mtp3): optimize SS7 message routing table [Sprint 2005.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-09-24 02:20] docs(sccp): optimize SS7 message routing table [Sprint 2005.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
