@@ -289,3 +289,6 @@
 [2005-09-24 02:20] docs(sccp): optimize SS7 message routing table [Sprint 2005.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-09-26 03:55] fix(isup): reduce P99 latency jitter under burst load [Sprint 2005.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
