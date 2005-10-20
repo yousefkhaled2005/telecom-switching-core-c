@@ -310,3 +310,6 @@
 [2005-10-18 03:39] test(slab_pool): calibrate carrier call-drop telemetry [Sprint 2005.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-10-20 02:47] refactor(isup): implement ITU-T ISUP state transition [Sprint 2005.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
