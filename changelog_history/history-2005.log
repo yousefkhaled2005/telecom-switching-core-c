@@ -316,3 +316,6 @@
 [2005-10-23 01:20] feat(isup): tune zero-allocation memory slab [Sprint 2005.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-10-27 04:27] fix(sccp): implement ITU-T ISUP state transition [Sprint 2005.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
