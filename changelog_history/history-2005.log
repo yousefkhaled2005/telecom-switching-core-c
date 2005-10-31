@@ -319,3 +319,6 @@
 [2005-10-27 04:27] fix(sccp): implement ITU-T ISUP state transition [Sprint 2005.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-10-31 06:55] perf(dial_plan): optimize lock-free ring buffer [Sprint 2005.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
