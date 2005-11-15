@@ -337,3 +337,6 @@
 [2005-11-13 07:43] fix(mtp3): optimize SS7 message routing table [Sprint 2005.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-11-15 10:15] perf(m3ua): integrate kernel bypass networking [Sprint 2005.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
