@@ -349,3 +349,6 @@
 [2005-11-26 12:01] docs(dial_plan): add AVX SIMD vectorization pass [Sprint 2005.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-11-28 14:30] refactor(isup): add hardware cacheline alignment padding [Sprint 2005.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
