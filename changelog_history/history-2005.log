@@ -364,3 +364,6 @@
 [2005-12-10 22:26] docs(mtp3): tune zero-allocation memory slab [Sprint 2005.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-12-13 23:39] fix(slab_pool): integrate kernel bypass networking [Sprint 2005.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
