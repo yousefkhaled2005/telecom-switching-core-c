@@ -370,3 +370,6 @@
 [2005-12-16 23:07] docs(rtp_relay): tune zero-allocation memory slab [Sprint 2005.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-12-19 02:34] docs(slab_pool): calibrate carrier call-drop telemetry [Sprint 2005.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
