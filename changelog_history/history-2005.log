@@ -373,3 +373,6 @@
 [2005-12-19 02:34] docs(slab_pool): calibrate carrier call-drop telemetry [Sprint 2005.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2005-12-22 02:15] fix(packet_switch): reduce P99 latency jitter under burst load [Sprint 2005.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
