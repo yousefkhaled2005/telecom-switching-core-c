@@ -25,3 +25,6 @@
 [2006-01-07 09:41] perf(sccp): optimize lock-free ring buffer [Sprint 2006.W1]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-01-10 12:09] refactor(dial_plan): optimize lock-free ring buffer [Sprint 2006.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
