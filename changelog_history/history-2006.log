@@ -31,3 +31,6 @@
 [2006-01-12 15:13] feat(mtp3): add hardware cacheline alignment padding [Sprint 2006.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-01-14 18:30] feat(ss7): add hardware cacheline alignment padding [Sprint 2006.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
