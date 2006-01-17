@@ -34,3 +34,6 @@
 [2006-01-14 18:30] feat(ss7): add hardware cacheline alignment padding [Sprint 2006.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-01-17 17:16] refactor(cdr_encoder): calibrate carrier call-drop telemetry [Sprint 2006.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
