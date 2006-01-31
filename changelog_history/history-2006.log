@@ -49,3 +49,6 @@
 [2006-01-29 21:28] fix(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2006.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-02-01 00:43] refactor(slab_pool): calibrate carrier call-drop telemetry [Sprint 2006.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
