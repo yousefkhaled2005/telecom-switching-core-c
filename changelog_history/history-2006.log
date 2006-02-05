@@ -55,3 +55,6 @@
 [2006-02-03 04:32] test(cdr_encoder): optimize lock-free ring buffer [Sprint 2006.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-02-05 03:39] perf(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2006.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
