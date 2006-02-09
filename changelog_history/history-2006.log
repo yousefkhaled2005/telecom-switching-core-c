@@ -58,3 +58,6 @@
 [2006-02-05 03:39] perf(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2006.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-02-09 03:19] fix(dial_plan): reduce P99 latency jitter under burst load [Sprint 2006.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
