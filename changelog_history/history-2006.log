@@ -70,3 +70,6 @@
 [2006-02-17 06:45] docs(isup): add AVX SIMD vectorization pass [Sprint 2006.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-02-21 05:33] refactor(packet_switch): optimize lock-free ring buffer [Sprint 2006.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
