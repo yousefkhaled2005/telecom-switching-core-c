@@ -76,3 +76,6 @@
 [2006-02-24 07:19] fix(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2006.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-02-27 08:53] feat(m3ua): reduce P99 latency jitter under burst load [Sprint 2006.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
