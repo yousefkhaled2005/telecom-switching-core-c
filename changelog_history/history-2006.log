@@ -82,3 +82,6 @@
 [2006-03-01 08:16] perf(slab_pool): implement ITU-T ISUP state transition [Sprint 2006.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-03-04 06:32] feat(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2006.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
