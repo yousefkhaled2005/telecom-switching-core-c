@@ -94,3 +94,6 @@
 [2006-03-13 11:38] refactor(cdr_encoder): optimize lock-free ring buffer [Sprint 2006.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-03-16 15:21] feat(cdr_encoder): add hardware cacheline alignment padding [Sprint 2006.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
