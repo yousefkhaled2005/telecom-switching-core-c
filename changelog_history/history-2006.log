@@ -97,3 +97,6 @@
 [2006-03-16 15:21] feat(cdr_encoder): add hardware cacheline alignment padding [Sprint 2006.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-03-19 18:27] feat(isup): implement zero-copy DMA packet buffer [Sprint 2006.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
