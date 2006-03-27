@@ -103,3 +103,6 @@
 [2006-03-23 17:35] refactor(mtp3): add hardware cacheline alignment padding [Sprint 2006.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-03-27 20:07] feat(packet_switch): implement ITU-T ISUP state transition [Sprint 2006.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
