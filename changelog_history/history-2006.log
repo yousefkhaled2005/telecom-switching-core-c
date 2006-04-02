@@ -109,3 +109,6 @@
 [2006-03-30 23:55] refactor(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2006.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-04-02 02:17] docs(sccp): reduce P99 latency jitter under burst load [Sprint 2006.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
