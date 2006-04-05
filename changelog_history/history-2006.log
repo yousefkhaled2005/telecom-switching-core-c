@@ -112,3 +112,6 @@
 [2006-04-02 02:17] docs(sccp): reduce P99 latency jitter under burst load [Sprint 2006.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-04-05 04:02] feat(isup): calibrate carrier call-drop telemetry [Sprint 2006.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
