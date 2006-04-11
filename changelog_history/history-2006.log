@@ -121,3 +121,6 @@
 [2006-04-10 00:51] perf(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2006.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-04-11 23:15] feat(ss7): implement ITU-T ISUP state transition [Sprint 2006.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
