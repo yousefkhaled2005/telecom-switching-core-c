@@ -130,3 +130,6 @@
 [2006-04-17 01:28] perf(mtp3): add hardware cacheline alignment padding [Sprint 2006.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-04-20 23:48] test(dial_plan): calibrate carrier call-drop telemetry [Sprint 2006.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
