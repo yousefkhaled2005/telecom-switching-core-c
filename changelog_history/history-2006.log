@@ -139,3 +139,6 @@
 [2006-04-26 23:49] perf(slab_pool): add AVX SIMD vectorization pass [Sprint 2006.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-04-30 22:33] fix(packet_switch): optimize SS7 message routing table [Sprint 2006.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
