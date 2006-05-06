@@ -145,3 +145,6 @@
 [2006-05-04 21:09] docs(dial_plan): optimize SS7 message routing table [Sprint 2006.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-05-07 00:47] fix(slab_pool): add hardware cacheline alignment padding [Sprint 2006.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
