@@ -151,3 +151,6 @@
 [2006-05-09 01:33] docs(packet_switch): calibrate carrier call-drop telemetry [Sprint 2006.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-05-11 03:13] feat(dial_plan): integrate kernel bypass networking [Sprint 2006.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
