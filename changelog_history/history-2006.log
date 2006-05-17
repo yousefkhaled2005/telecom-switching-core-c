@@ -157,3 +157,6 @@
 [2006-05-13 02:31] refactor(ss7): tune zero-allocation memory slab [Sprint 2006.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-05-17 02:34] test(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2006.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
