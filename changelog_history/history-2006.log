@@ -163,3 +163,6 @@
 [2006-05-20 06:18] refactor(packet_switch): reduce P99 latency jitter under burst load [Sprint 2006.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-05-23 04:42] refactor(rtp_relay): add AVX SIMD vectorization pass [Sprint 2006.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
