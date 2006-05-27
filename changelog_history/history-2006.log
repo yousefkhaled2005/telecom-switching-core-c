@@ -166,3 +166,6 @@
 [2006-05-23 04:42] refactor(rtp_relay): add AVX SIMD vectorization pass [Sprint 2006.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-05-27 06:20] feat(mtp3): implement zero-copy DMA packet buffer [Sprint 2006.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
