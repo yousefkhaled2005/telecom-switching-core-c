@@ -172,3 +172,6 @@
 [2006-05-30 07:27] refactor(isup): calibrate carrier call-drop telemetry [Sprint 2006.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-06-02 07:07] test(m3ua): implement zero-copy DMA packet buffer [Sprint 2006.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
