@@ -178,3 +178,6 @@
 [2006-06-05 07:51] test(cdr_encoder): add hardware cacheline alignment padding [Sprint 2006.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-06-09 11:24] test(sccp): implement ITU-T ISUP state transition [Sprint 2006.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
