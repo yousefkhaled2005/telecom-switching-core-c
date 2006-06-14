@@ -184,3 +184,6 @@
 [2006-06-11 11:25] test(rtp_relay): optimize SS7 message routing table [Sprint 2006.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-06-14 10:10] test(rtp_relay): implement ITU-T ISUP state transition [Sprint 2006.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
