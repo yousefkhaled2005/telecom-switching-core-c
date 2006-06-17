@@ -187,3 +187,6 @@
 [2006-06-14 10:10] test(rtp_relay): implement ITU-T ISUP state transition [Sprint 2006.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-06-17 12:19] feat(isup): add AVX SIMD vectorization pass [Sprint 2006.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
