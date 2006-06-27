@@ -196,3 +196,6 @@
 [2006-06-23 14:13] perf(slab_pool): add AVX SIMD vectorization pass [Sprint 2006.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-06-27 13:46] docs(slab_pool): add hardware cacheline alignment padding [Sprint 2006.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
