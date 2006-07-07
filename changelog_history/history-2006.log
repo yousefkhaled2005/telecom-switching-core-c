@@ -205,3 +205,6 @@
 [2006-07-04 19:06] docs(dial_plan): add AVX SIMD vectorization pass [Sprint 2006.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-07-07 20:36] test(m3ua): implement zero-copy DMA packet buffer [Sprint 2006.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
