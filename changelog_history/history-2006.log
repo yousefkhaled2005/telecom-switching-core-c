@@ -208,3 +208,6 @@
 [2006-07-07 20:36] test(m3ua): implement zero-copy DMA packet buffer [Sprint 2006.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-07-10 21:57] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2006.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
