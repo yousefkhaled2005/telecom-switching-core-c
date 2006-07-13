@@ -211,3 +211,6 @@
 [2006-07-10 21:57] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2006.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-07-13 20:05] docs(slab_pool): calibrate carrier call-drop telemetry [Sprint 2006.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
