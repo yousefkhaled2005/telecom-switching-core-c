@@ -220,3 +220,6 @@
 [2006-07-17 17:54] refactor(ss7): optimize lock-free ring buffer [Sprint 2006.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-07-20 19:17] feat(isup): reduce P99 latency jitter under burst load [Sprint 2006.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
