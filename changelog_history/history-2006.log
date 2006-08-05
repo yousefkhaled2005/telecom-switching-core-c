@@ -235,3 +235,6 @@
 [2006-07-31 22:38] refactor(dial_plan): optimize lock-free ring buffer [Sprint 2006.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-08-05 02:17] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2006.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
