@@ -238,3 +238,6 @@
 [2006-08-05 02:17] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2006.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-08-09 00:24] feat(slab_pool): tune zero-allocation memory slab [Sprint 2006.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
