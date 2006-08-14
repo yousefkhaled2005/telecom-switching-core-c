@@ -244,3 +244,6 @@
 [2006-08-11 22:31] fix(m3ua): tune zero-allocation memory slab [Sprint 2006.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-08-14 21:10] fix(dial_plan): implement ITU-T ISUP state transition [Sprint 2006.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
