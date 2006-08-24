@@ -256,3 +256,6 @@
 [2006-08-22 03:02] feat(m3ua): add AVX SIMD vectorization pass [Sprint 2006.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-08-24 05:33] fix(isup): reduce P99 latency jitter under burst load [Sprint 2006.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
