@@ -262,3 +262,6 @@
 [2006-08-27 06:52] fix(slab_pool): integrate kernel bypass networking [Sprint 2006.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-08-30 05:33] fix(cdr_encoder): integrate kernel bypass networking [Sprint 2006.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
