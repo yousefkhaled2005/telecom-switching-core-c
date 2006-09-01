@@ -265,3 +265,6 @@
 [2006-08-30 05:33] fix(cdr_encoder): integrate kernel bypass networking [Sprint 2006.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-01 08:03] test(slab_pool): optimize lock-free ring buffer [Sprint 2006.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
