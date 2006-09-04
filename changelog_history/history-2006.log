@@ -268,3 +268,6 @@
 [2006-09-01 08:03] test(slab_pool): optimize lock-free ring buffer [Sprint 2006.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-04 08:04] test(sccp): add hardware cacheline alignment padding [Sprint 2006.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
