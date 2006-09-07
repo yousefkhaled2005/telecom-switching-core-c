@@ -271,3 +271,6 @@
 [2006-09-04 08:04] test(sccp): add hardware cacheline alignment padding [Sprint 2006.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-07 10:24] docs(packet_switch): reduce P99 latency jitter under burst load [Sprint 2006.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
