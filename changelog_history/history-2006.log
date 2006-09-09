@@ -274,3 +274,6 @@
 [2006-09-07 10:24] docs(packet_switch): reduce P99 latency jitter under burst load [Sprint 2006.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-09 12:14] refactor(ss7): add AVX SIMD vectorization pass [Sprint 2006.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
