@@ -280,3 +280,6 @@
 [2006-09-12 14:59] docs(mtp3): calibrate carrier call-drop telemetry [Sprint 2006.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-14 14:34] perf(dial_plan): implement zero-copy DMA packet buffer [Sprint 2006.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
