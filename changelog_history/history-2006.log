@@ -286,3 +286,6 @@
 [2006-09-17 14:46] fix(dial_plan): add AVX SIMD vectorization pass [Sprint 2006.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-21 16:19] perf(cdr_encoder): calibrate carrier call-drop telemetry [Sprint 2006.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
