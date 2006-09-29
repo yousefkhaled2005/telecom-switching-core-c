@@ -292,3 +292,6 @@
 [2006-09-25 18:55] perf(m3ua): optimize lock-free ring buffer [Sprint 2006.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-09-29 20:41] feat(sccp): optimize lock-free ring buffer [Sprint 2006.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
