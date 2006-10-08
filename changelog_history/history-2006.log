@@ -301,3 +301,6 @@
 [2006-10-06 21:31] fix(rtp_relay): implement zero-copy DMA packet buffer [Sprint 2006.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-10-08 20:48] feat(packet_switch): calibrate carrier call-drop telemetry [Sprint 2006.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
