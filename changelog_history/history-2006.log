@@ -307,3 +307,6 @@
 [2006-10-12 20:02] fix(ss7): calibrate carrier call-drop telemetry [Sprint 2006.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-10-16 19:16] feat(dial_plan): implement zero-copy DMA packet buffer [Sprint 2006.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
