@@ -313,3 +313,6 @@
 [2006-10-18 18:23] docs(isup): integrate kernel bypass networking [Sprint 2006.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-10-22 19:28] fix(sccp): implement zero-copy DMA packet buffer [Sprint 2006.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
