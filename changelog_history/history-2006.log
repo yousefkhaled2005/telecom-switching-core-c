@@ -316,3 +316,6 @@
 [2006-10-22 19:28] fix(sccp): implement zero-copy DMA packet buffer [Sprint 2006.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-10-26 20:44] perf(dial_plan): calibrate carrier call-drop telemetry [Sprint 2006.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
