@@ -325,3 +325,6 @@
 [2006-11-02 20:45] perf(cdr_encoder): optimize SS7 message routing table [Sprint 2006.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-11-05 21:21] docs(mtp3): add AVX SIMD vectorization pass [Sprint 2006.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
