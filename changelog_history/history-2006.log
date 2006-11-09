@@ -328,3 +328,6 @@
 [2006-11-05 21:21] docs(mtp3): add AVX SIMD vectorization pass [Sprint 2006.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-11-09 19:30] perf(slab_pool): implement ITU-T ISUP state transition [Sprint 2006.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
