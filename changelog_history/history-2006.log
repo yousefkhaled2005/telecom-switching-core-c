@@ -334,3 +334,6 @@
 [2006-11-11 22:41] docs(m3ua): integrate kernel bypass networking [Sprint 2006.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-11-13 22:13] test(rtp_relay): calibrate carrier call-drop telemetry [Sprint 2006.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
