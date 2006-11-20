@@ -340,3 +340,6 @@
 [2006-11-17 20:51] feat(sccp): implement ITU-T ISUP state transition [Sprint 2006.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-11-20 23:25] fix(rtp_relay): implement ITU-T ISUP state transition [Sprint 2006.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
