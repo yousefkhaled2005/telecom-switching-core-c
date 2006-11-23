@@ -343,3 +343,6 @@
 [2006-11-20 23:25] fix(rtp_relay): implement ITU-T ISUP state transition [Sprint 2006.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-11-24 00:56] perf(packet_switch): add AVX SIMD vectorization pass [Sprint 2006.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
