@@ -355,3 +355,6 @@
 [2006-12-06 01:41] docs(cdr_encoder): optimize lock-free ring buffer [Sprint 2006.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-12-10 01:53] feat(mtp3): implement ITU-T ISUP state transition [Sprint 2006.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
