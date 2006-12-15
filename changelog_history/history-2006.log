@@ -361,3 +361,6 @@
 [2006-12-13 00:55] test(m3ua): add hardware cacheline alignment padding [Sprint 2006.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-12-15 02:45] docs(dial_plan): reduce P99 latency jitter under burst load [Sprint 2006.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
