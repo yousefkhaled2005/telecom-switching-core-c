@@ -373,3 +373,6 @@
 [2006-12-23 06:06] test(m3ua): integrate kernel bypass networking [Sprint 2006.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2006-12-26 08:31] fix(isup): implement zero-copy DMA packet buffer [Sprint 2006.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
