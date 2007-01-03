@@ -1,0 +1,4 @@
+[2007-01-03 9:40] fix(packet_switch): integrate kernel bypass networking in release cycle 2007.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: telecom-switching-core-c
+
