@@ -25,3 +25,6 @@
 [2007-01-07 10:32] docs(sccp): integrate kernel bypass networking [Sprint 2007.W1]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-10 09:43] docs(isup): optimize lock-free ring buffer [Sprint 2007.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
