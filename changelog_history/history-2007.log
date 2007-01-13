@@ -28,3 +28,6 @@
 [2007-01-10 09:43] docs(isup): optimize lock-free ring buffer [Sprint 2007.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-13 09:49] docs(packet_switch): reduce P99 latency jitter under burst load [Sprint 2007.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
