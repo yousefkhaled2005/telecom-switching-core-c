@@ -34,3 +34,6 @@
 [2007-01-15 09:32] docs(sccp): optimize SS7 message routing table [Sprint 2007.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-17 11:10] fix(rtp_relay): implement ITU-T ISUP state transition [Sprint 2007.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
