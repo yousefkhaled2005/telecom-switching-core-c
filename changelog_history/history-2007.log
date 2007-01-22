@@ -40,3 +40,6 @@
 [2007-01-20 14:51] docs(isup): integrate kernel bypass networking [Sprint 2007.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-22 18:26] perf(sccp): add hardware cacheline alignment padding [Sprint 2007.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
