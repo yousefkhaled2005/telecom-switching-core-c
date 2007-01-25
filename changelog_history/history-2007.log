@@ -43,3 +43,6 @@
 [2007-01-22 18:26] perf(sccp): add hardware cacheline alignment padding [Sprint 2007.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-25 17:43] fix(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2007.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
