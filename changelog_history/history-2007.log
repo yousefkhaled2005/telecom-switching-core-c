@@ -49,3 +49,6 @@
 [2007-01-27 16:18] feat(slab_pool): implement ITU-T ISUP state transition [Sprint 2007.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-01-30 19:23] test(mtp3): add AVX SIMD vectorization pass [Sprint 2007.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
