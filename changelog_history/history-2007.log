@@ -52,3 +52,6 @@
 [2007-01-30 19:23] test(mtp3): add AVX SIMD vectorization pass [Sprint 2007.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-02-01 19:54] refactor(ss7): reduce P99 latency jitter under burst load [Sprint 2007.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
