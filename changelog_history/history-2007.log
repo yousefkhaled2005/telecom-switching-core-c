@@ -58,3 +58,6 @@
 [2007-02-05 22:42] refactor(m3ua): tune zero-allocation memory slab [Sprint 2007.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-02-09 22:28] fix(ss7): integrate kernel bypass networking [Sprint 2007.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
