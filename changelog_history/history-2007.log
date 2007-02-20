@@ -67,3 +67,6 @@
 [2007-02-16 19:10] perf(slab_pool): implement zero-copy DMA packet buffer [Sprint 2007.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-02-20 19:53] feat(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2007.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
