@@ -73,3 +73,6 @@
 [2007-02-24 22:08] feat(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2007.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-02-28 23:44] docs(sccp): tune zero-allocation memory slab [Sprint 2007.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
