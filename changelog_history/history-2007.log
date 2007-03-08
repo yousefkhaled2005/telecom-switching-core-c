@@ -79,3 +79,6 @@
 [2007-03-05 03:15] refactor(ss7): integrate kernel bypass networking [Sprint 2007.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-03-08 03:05] test(isup): add AVX SIMD vectorization pass [Sprint 2007.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
