@@ -82,3 +82,6 @@
 [2007-03-08 03:05] test(isup): add AVX SIMD vectorization pass [Sprint 2007.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-03-10 06:28] refactor(mtp3): calibrate carrier call-drop telemetry [Sprint 2007.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
