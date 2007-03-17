@@ -91,3 +91,6 @@
 [2007-03-15 09:01] docs(mtp3): calibrate carrier call-drop telemetry [Sprint 2007.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-03-17 08:17] fix(m3ua): reduce P99 latency jitter under burst load [Sprint 2007.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
