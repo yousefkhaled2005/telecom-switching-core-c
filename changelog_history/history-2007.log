@@ -97,3 +97,6 @@
 [2007-03-20 09:34] feat(m3ua): add AVX SIMD vectorization pass [Sprint 2007.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-03-24 13:20] feat(ss7): reduce P99 latency jitter under burst load [Sprint 2007.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
