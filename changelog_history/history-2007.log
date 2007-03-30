@@ -103,3 +103,6 @@
 [2007-03-27 15:37] test(m3ua): tune zero-allocation memory slab [Sprint 2007.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-03-30 16:01] test(m3ua): add AVX SIMD vectorization pass [Sprint 2007.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
