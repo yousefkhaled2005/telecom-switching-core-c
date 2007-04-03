@@ -106,3 +106,6 @@
 [2007-03-30 16:01] test(m3ua): add AVX SIMD vectorization pass [Sprint 2007.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-04-03 14:41] test(isup): integrate kernel bypass networking [Sprint 2007.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
