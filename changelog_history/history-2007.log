@@ -109,3 +109,6 @@
 [2007-04-03 14:41] test(isup): integrate kernel bypass networking [Sprint 2007.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-04-07 17:53] refactor(packet_switch): implement ITU-T ISUP state transition [Sprint 2007.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
