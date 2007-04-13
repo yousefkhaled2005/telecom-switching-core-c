@@ -115,3 +115,6 @@
 [2007-04-11 18:28] feat(ss7): optimize SS7 message routing table [Sprint 2007.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-04-13 17:15] refactor(mtp3): add hardware cacheline alignment padding [Sprint 2007.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
