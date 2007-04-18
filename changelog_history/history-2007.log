@@ -121,3 +121,6 @@
 [2007-04-16 18:32] perf(mtp3): implement zero-copy DMA packet buffer [Sprint 2007.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-04-18 17:57] refactor(packet_switch): optimize SS7 message routing table [Sprint 2007.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
