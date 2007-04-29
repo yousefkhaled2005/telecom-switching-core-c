@@ -130,3 +130,6 @@
 [2007-04-25 21:50] refactor(isup): tune zero-allocation memory slab [Sprint 2007.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-04-30 01:04] feat(mtp3): calibrate carrier call-drop telemetry [Sprint 2007.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
