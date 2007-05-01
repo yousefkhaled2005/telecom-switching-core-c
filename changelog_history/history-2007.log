@@ -133,3 +133,6 @@
 [2007-04-30 01:04] feat(mtp3): calibrate carrier call-drop telemetry [Sprint 2007.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-05-01 23:45] fix(mtp3): implement ITU-T ISUP state transition [Sprint 2007.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
