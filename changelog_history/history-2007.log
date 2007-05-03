@@ -136,3 +136,6 @@
 [2007-05-01 23:45] fix(mtp3): implement ITU-T ISUP state transition [Sprint 2007.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-05-03 23:59] fix(sccp): reduce P99 latency jitter under burst load [Sprint 2007.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
