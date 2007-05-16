@@ -145,3 +145,6 @@
 [2007-05-12 02:59] test(sccp): optimize lock-free ring buffer [Sprint 2007.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-05-16 02:38] feat(packet_switch): add AVX SIMD vectorization pass [Sprint 2007.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
