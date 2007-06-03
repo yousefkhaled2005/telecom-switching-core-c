@@ -163,3 +163,6 @@
 [2007-05-31 04:36] feat(mtp3): reduce P99 latency jitter under burst load [Sprint 2007.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-06-03 05:56] refactor(packet_switch): integrate kernel bypass networking [Sprint 2007.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
