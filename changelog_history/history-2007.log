@@ -172,3 +172,6 @@
 [2007-06-09 10:00] refactor(isup): calibrate carrier call-drop telemetry [Sprint 2007.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-06-11 13:34] test(rtp_relay): add hardware cacheline alignment padding [Sprint 2007.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
