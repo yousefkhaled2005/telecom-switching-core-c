@@ -181,3 +181,6 @@
 [2007-06-16 15:20] refactor(m3ua): implement ITU-T ISUP state transition [Sprint 2007.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-06-20 17:04] perf(mtp3): optimize SS7 message routing table [Sprint 2007.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
