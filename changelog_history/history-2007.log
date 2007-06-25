@@ -187,3 +187,6 @@
 [2007-06-23 18:34] test(m3ua): calibrate carrier call-drop telemetry [Sprint 2007.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-06-25 18:20] fix(sccp): add hardware cacheline alignment padding [Sprint 2007.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
