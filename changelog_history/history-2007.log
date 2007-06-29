@@ -190,3 +190,6 @@
 [2007-06-25 18:20] fix(sccp): add hardware cacheline alignment padding [Sprint 2007.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-06-29 17:40] test(dial_plan): add hardware cacheline alignment padding [Sprint 2007.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
