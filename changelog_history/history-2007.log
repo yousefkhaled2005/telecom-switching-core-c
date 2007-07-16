@@ -205,3 +205,6 @@
 [2007-07-14 19:51] refactor(ss7): tune zero-allocation memory slab [Sprint 2007.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-07-16 21:15] perf(rtp_relay): optimize SS7 message routing table [Sprint 2007.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
