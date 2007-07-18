@@ -208,3 +208,6 @@
 [2007-07-16 21:15] perf(rtp_relay): optimize SS7 message routing table [Sprint 2007.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-07-18 22:31] docs(isup): optimize SS7 message routing table [Sprint 2007.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
