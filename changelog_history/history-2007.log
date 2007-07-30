@@ -220,3 +220,6 @@
 [2007-07-28 03:01] perf(rtp_relay): optimize SS7 message routing table [Sprint 2007.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-07-30 03:11] fix(ss7): reduce P99 latency jitter under burst load [Sprint 2007.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
