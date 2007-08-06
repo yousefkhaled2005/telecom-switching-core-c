@@ -226,3 +226,6 @@
 [2007-08-03 04:32] fix(slab_pool): implement ITU-T ISUP state transition [Sprint 2007.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-08-06 03:12] refactor(cdr_encoder): optimize lock-free ring buffer [Sprint 2007.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
