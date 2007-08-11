@@ -232,3 +232,6 @@
 [2007-08-08 04:57] docs(cdr_encoder): implement ITU-T ISUP state transition [Sprint 2007.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-08-11 07:00] refactor(cdr_encoder): tune zero-allocation memory slab [Sprint 2007.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
