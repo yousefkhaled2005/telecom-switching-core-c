@@ -244,3 +244,6 @@
 [2007-08-20 04:14] fix(dial_plan): add AVX SIMD vectorization pass [Sprint 2007.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-08-22 07:31] feat(sccp): implement ITU-T ISUP state transition [Sprint 2007.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
