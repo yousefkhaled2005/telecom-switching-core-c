@@ -253,3 +253,6 @@
 [2007-08-30 08:01] docs(ss7): calibrate carrier call-drop telemetry [Sprint 2007.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-09-02 11:43] refactor(sccp): add AVX SIMD vectorization pass [Sprint 2007.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
