@@ -271,3 +271,6 @@
 [2007-09-14 15:01] fix(cdr_encoder): optimize SS7 message routing table [Sprint 2007.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-09-16 18:08] fix(m3ua): add hardware cacheline alignment padding [Sprint 2007.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
