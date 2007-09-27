@@ -286,3 +286,6 @@
 [2007-09-25 20:06] feat(mtp3): reduce P99 latency jitter under burst load [Sprint 2007.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-09-27 21:20] perf(packet_switch): add AVX SIMD vectorization pass [Sprint 2007.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
