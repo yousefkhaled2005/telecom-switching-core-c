@@ -292,3 +292,6 @@
 [2007-09-30 20:50] refactor(isup): tune zero-allocation memory slab [Sprint 2007.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-03 20:11] test(rtp_relay): add AVX SIMD vectorization pass [Sprint 2007.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
