@@ -295,3 +295,6 @@
 [2007-10-03 20:11] test(rtp_relay): add AVX SIMD vectorization pass [Sprint 2007.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-06 18:42] docs(slab_pool): tune zero-allocation memory slab [Sprint 2007.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
