@@ -304,3 +304,6 @@
 [2007-10-11 22:34] refactor(slab_pool): integrate kernel bypass networking [Sprint 2007.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-14 21:39] refactor(isup): tune zero-allocation memory slab [Sprint 2007.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
