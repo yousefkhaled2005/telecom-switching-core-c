@@ -310,3 +310,6 @@
 [2007-10-17 22:28] feat(ss7): add hardware cacheline alignment padding [Sprint 2007.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-20 00:16] feat(packet_switch): add hardware cacheline alignment padding [Sprint 2007.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
