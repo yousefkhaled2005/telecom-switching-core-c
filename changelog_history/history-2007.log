@@ -313,3 +313,6 @@
 [2007-10-20 00:16] feat(packet_switch): add hardware cacheline alignment padding [Sprint 2007.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-22 02:59] refactor(sccp): add hardware cacheline alignment padding [Sprint 2007.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
