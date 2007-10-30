@@ -322,3 +322,6 @@
 [2007-10-28 05:45] feat(dial_plan): integrate kernel bypass networking [Sprint 2007.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-10-30 09:32] fix(ss7): add AVX SIMD vectorization pass [Sprint 2007.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
