@@ -328,3 +328,6 @@
 [2007-11-01 07:58] perf(ss7): implement ITU-T ISUP state transition [Sprint 2007.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-11-04 10:28] docs(rtp_relay): calibrate carrier call-drop telemetry [Sprint 2007.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
