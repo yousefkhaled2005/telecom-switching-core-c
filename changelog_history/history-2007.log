@@ -334,3 +334,6 @@
 [2007-11-06 11:46] fix(rtp_relay): optimize SS7 message routing table [Sprint 2007.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-11-10 15:30] test(slab_pool): tune zero-allocation memory slab [Sprint 2007.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
