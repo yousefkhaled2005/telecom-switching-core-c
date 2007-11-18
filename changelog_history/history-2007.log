@@ -343,3 +343,6 @@
 [2007-11-16 17:55] refactor(cdr_encoder): add hardware cacheline alignment padding [Sprint 2007.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-11-18 17:10] test(packet_switch): add AVX SIMD vectorization pass [Sprint 2007.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
