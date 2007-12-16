@@ -373,3 +373,6 @@
 [2007-12-14 06:16] fix(packet_switch): tune zero-allocation memory slab [Sprint 2007.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-12-16 08:58] perf(mtp3): calibrate carrier call-drop telemetry [Sprint 2007.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
