@@ -379,3 +379,6 @@
 [2007-12-18 10:44] test(sccp): optimize lock-free ring buffer [Sprint 2007.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-12-22 14:07] test(isup): optimize SS7 message routing table [Sprint 2007.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
