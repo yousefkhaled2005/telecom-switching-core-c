@@ -382,3 +382,6 @@
 [2007-12-22 14:07] test(isup): optimize SS7 message routing table [Sprint 2007.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2007-12-24 15:17] fix(dial_plan): add AVX SIMD vectorization pass [Sprint 2007.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
