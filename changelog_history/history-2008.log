@@ -22,3 +22,6 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: telecom-switching-core-c
 
+[2008-01-07 11:44] docs(dial_plan): reduce P99 latency jitter under burst load [Sprint 2008.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
