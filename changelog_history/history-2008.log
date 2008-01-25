@@ -40,3 +40,6 @@
 [2008-01-22 11:10] docs(ss7): calibrate carrier call-drop telemetry [Sprint 2008.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-01-25 12:40] feat(isup): implement ITU-T ISUP state transition [Sprint 2008.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
