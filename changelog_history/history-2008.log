@@ -49,3 +49,6 @@
 [2008-01-31 15:29] feat(ss7): add hardware cacheline alignment padding [Sprint 2008.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-02-03 16:47] test(slab_pool): optimize lock-free ring buffer [Sprint 2008.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
