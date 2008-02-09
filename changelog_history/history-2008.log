@@ -55,3 +55,6 @@
 [2008-02-06 17:16] docs(sccp): add AVX SIMD vectorization pass [Sprint 2008.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-02-09 19:55] docs(isup): reduce P99 latency jitter under burst load [Sprint 2008.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
