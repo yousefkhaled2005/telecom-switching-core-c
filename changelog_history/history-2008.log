@@ -73,3 +73,6 @@
 [2008-02-28 00:15] refactor(dial_plan): calibrate carrier call-drop telemetry [Sprint 2008.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-02 00:19] perf(dial_plan): reduce P99 latency jitter under burst load [Sprint 2008.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
