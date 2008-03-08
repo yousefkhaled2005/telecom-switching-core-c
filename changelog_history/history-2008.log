@@ -79,3 +79,6 @@
 [2008-03-06 03:30] docs(m3ua): optimize lock-free ring buffer [Sprint 2008.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-08 06:38] fix(mtp3): add AVX SIMD vectorization pass [Sprint 2008.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
