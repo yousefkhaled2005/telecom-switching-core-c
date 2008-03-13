@@ -85,3 +85,6 @@
 [2008-03-11 07:20] feat(ss7): implement zero-copy DMA packet buffer [Sprint 2008.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-13 07:40] docs(m3ua): add AVX SIMD vectorization pass [Sprint 2008.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
