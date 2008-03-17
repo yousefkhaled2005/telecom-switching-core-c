@@ -88,3 +88,6 @@
 [2008-03-13 07:40] docs(m3ua): add AVX SIMD vectorization pass [Sprint 2008.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-17 09:29] docs(cdr_encoder): integrate kernel bypass networking [Sprint 2008.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
