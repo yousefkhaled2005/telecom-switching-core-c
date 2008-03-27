@@ -97,3 +97,6 @@
 [2008-03-23 15:10] refactor(packet_switch): implement ITU-T ISUP state transition [Sprint 2008.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-27 15:22] perf(ss7): integrate kernel bypass networking [Sprint 2008.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
