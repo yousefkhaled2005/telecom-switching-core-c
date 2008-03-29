@@ -100,3 +100,6 @@
 [2008-03-27 15:22] perf(ss7): integrate kernel bypass networking [Sprint 2008.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-03-29 17:41] perf(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2008.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
