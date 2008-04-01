@@ -103,3 +103,6 @@
 [2008-03-29 17:41] perf(cdr_encoder): reduce P99 latency jitter under burst load [Sprint 2008.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-04-01 17:04] fix(slab_pool): implement ITU-T ISUP state transition [Sprint 2008.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
