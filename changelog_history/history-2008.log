@@ -109,3 +109,6 @@
 [2008-04-03 20:47] perf(slab_pool): reduce P99 latency jitter under burst load [Sprint 2008.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-04-06 19:49] docs(dial_plan): optimize SS7 message routing table [Sprint 2008.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
