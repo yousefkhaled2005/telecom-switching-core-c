@@ -112,3 +112,6 @@
 [2008-04-06 19:49] docs(dial_plan): optimize SS7 message routing table [Sprint 2008.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-04-08 21:36] fix(ss7): integrate kernel bypass networking [Sprint 2008.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
