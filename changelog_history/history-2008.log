@@ -133,3 +133,6 @@
 [2008-04-28 06:04] fix(isup): reduce P99 latency jitter under burst load [Sprint 2008.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-04-30 08:15] fix(rtp_relay): add AVX SIMD vectorization pass [Sprint 2008.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
