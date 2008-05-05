@@ -139,3 +139,6 @@
 [2008-05-03 06:36] docs(rtp_relay): calibrate carrier call-drop telemetry [Sprint 2008.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-05-05 04:44] docs(sccp): implement ITU-T ISUP state transition [Sprint 2008.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
