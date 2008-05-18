@@ -154,3 +154,6 @@
 [2008-05-15 03:59] docs(rtp_relay): implement ITU-T ISUP state transition [Sprint 2008.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-05-18 02:31] docs(ss7): implement zero-copy DMA packet buffer [Sprint 2008.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
