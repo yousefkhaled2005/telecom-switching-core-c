@@ -160,3 +160,6 @@
 [2008-05-21 02:14] perf(packet_switch): integrate kernel bypass networking [Sprint 2008.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-05-23 03:51] docs(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2008.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
