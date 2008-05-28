@@ -166,3 +166,6 @@
 [2008-05-26 03:09] feat(isup): optimize lock-free ring buffer [Sprint 2008.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-05-29 01:48] perf(slab_pool): integrate kernel bypass networking [Sprint 2008.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
