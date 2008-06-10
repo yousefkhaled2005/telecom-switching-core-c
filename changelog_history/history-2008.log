@@ -178,3 +178,6 @@
 [2008-06-08 05:34] docs(cdr_encoder): integrate kernel bypass networking [Sprint 2008.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-06-10 03:47] fix(ss7): calibrate carrier call-drop telemetry [Sprint 2008.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
