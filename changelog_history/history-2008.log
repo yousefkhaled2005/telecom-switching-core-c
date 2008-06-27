@@ -196,3 +196,6 @@
 [2008-06-24 13:08] feat(sccp): implement ITU-T ISUP state transition [Sprint 2008.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-06-27 13:24] refactor(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2008.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
