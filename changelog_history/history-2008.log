@@ -199,3 +199,6 @@
 [2008-06-27 13:24] refactor(cdr_encoder): implement zero-copy DMA packet buffer [Sprint 2008.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-06-29 16:26] feat(isup): tune zero-allocation memory slab [Sprint 2008.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
