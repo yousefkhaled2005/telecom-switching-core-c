@@ -202,3 +202,6 @@
 [2008-06-29 16:26] feat(isup): tune zero-allocation memory slab [Sprint 2008.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-07-01 14:32] refactor(m3ua): implement zero-copy DMA packet buffer [Sprint 2008.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
