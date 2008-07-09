@@ -211,3 +211,6 @@
 [2008-07-06 18:37] test(m3ua): integrate kernel bypass networking [Sprint 2008.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-07-09 18:14] refactor(isup): add hardware cacheline alignment padding [Sprint 2008.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
