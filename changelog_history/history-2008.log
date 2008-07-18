@@ -220,3 +220,6 @@
 [2008-07-15 19:54] fix(ss7): optimize lock-free ring buffer [Sprint 2008.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-07-18 18:26] docs(m3ua): optimize lock-free ring buffer [Sprint 2008.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
