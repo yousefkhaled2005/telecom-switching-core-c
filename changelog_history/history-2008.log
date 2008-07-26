@@ -226,3 +226,6 @@
 [2008-07-22 19:49] fix(m3ua): add hardware cacheline alignment padding [Sprint 2008.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-07-26 21:11] perf(dial_plan): optimize SS7 message routing table [Sprint 2008.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
