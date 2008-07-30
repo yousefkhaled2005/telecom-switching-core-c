@@ -229,3 +229,6 @@
 [2008-07-26 21:11] perf(dial_plan): optimize SS7 message routing table [Sprint 2008.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-07-31 00:23] docs(m3ua): add AVX SIMD vectorization pass [Sprint 2008.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
