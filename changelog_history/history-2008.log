@@ -235,3 +235,6 @@
 [2008-08-02 22:46] perf(m3ua): integrate kernel bypass networking [Sprint 2008.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-08-06 22:56] refactor(m3ua): optimize lock-free ring buffer [Sprint 2008.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
