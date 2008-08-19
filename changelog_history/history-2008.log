@@ -250,3 +250,6 @@
 [2008-08-15 15:48] perf(rtp_relay): reduce P99 latency jitter under burst load [Sprint 2008.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-08-19 17:08] feat(sccp): tune zero-allocation memory slab [Sprint 2008.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
