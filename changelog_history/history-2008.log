@@ -265,3 +265,6 @@
 [2008-08-31 18:31] feat(sccp): reduce P99 latency jitter under burst load [Sprint 2008.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-09-03 18:48] refactor(sccp): optimize SS7 message routing table [Sprint 2008.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
