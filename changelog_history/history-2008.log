@@ -268,3 +268,6 @@
 [2008-09-03 18:48] refactor(sccp): optimize SS7 message routing table [Sprint 2008.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-09-07 19:36] perf(ss7): implement ITU-T ISUP state transition [Sprint 2008.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
