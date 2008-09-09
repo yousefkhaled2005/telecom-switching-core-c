@@ -271,3 +271,6 @@
 [2008-09-07 19:36] perf(ss7): implement ITU-T ISUP state transition [Sprint 2008.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-09-09 21:57] feat(isup): add AVX SIMD vectorization pass [Sprint 2008.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
