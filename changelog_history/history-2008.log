@@ -280,3 +280,6 @@
 [2008-09-17 01:11] perf(rtp_relay): optimize SS7 message routing table [Sprint 2008.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-09-20 23:40] refactor(m3ua): add hardware cacheline alignment padding [Sprint 2008.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
