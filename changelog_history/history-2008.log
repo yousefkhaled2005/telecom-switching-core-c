@@ -292,3 +292,6 @@
 [2008-09-28 04:49] refactor(packet_switch): tune zero-allocation memory slab [Sprint 2008.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-10-01 04:15] docs(isup): calibrate carrier call-drop telemetry [Sprint 2008.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
