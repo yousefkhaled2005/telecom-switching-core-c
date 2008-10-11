@@ -301,3 +301,6 @@
 [2008-10-07 03:52] docs(rtp_relay): implement zero-copy DMA packet buffer [Sprint 2008.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-10-11 07:28] refactor(sccp): tune zero-allocation memory slab [Sprint 2008.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
