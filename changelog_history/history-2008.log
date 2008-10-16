@@ -307,3 +307,6 @@
 [2008-10-13 06:57] feat(rtp_relay): tune zero-allocation memory slab [Sprint 2008.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-10-16 08:43] refactor(ss7): optimize lock-free ring buffer [Sprint 2008.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
