@@ -310,3 +310,6 @@
 [2008-10-16 08:43] refactor(ss7): optimize lock-free ring buffer [Sprint 2008.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-10-18 09:57] feat(dial_plan): implement zero-copy DMA packet buffer [Sprint 2008.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
