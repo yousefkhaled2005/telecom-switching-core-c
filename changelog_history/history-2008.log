@@ -322,3 +322,6 @@
 [2008-10-25 18:14] feat(mtp3): implement zero-copy DMA packet buffer [Sprint 2008.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-10-27 16:55] perf(dial_plan): optimize SS7 message routing table [Sprint 2008.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
