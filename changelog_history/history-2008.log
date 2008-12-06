@@ -358,3 +358,6 @@
 [2008-12-04 05:58] feat(sccp): optimize SS7 message routing table [Sprint 2008.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-12-06 06:15] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2008.W49]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
