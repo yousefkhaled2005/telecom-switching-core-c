@@ -361,3 +361,6 @@
 [2008-12-06 06:15] feat(sccp): calibrate carrier call-drop telemetry [Sprint 2008.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-12-09 06:57] test(sccp): reduce P99 latency jitter under burst load [Sprint 2008.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
