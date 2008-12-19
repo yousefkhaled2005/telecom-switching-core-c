@@ -370,3 +370,6 @@
 [2008-12-17 05:14] refactor(dial_plan): integrate kernel bypass networking [Sprint 2008.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-12-19 04:26] fix(slab_pool): calibrate carrier call-drop telemetry [Sprint 2008.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
