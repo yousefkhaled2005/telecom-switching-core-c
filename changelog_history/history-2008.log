@@ -376,3 +376,6 @@
 [2008-12-21 06:16] fix(ss7): tune zero-allocation memory slab [Sprint 2008.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-12-23 06:46] docs(packet_switch): tune zero-allocation memory slab [Sprint 2008.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
