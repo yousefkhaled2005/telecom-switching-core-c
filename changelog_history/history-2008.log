@@ -379,3 +379,6 @@
 [2008-12-23 06:46] docs(packet_switch): tune zero-allocation memory slab [Sprint 2008.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: telecom-switching-core-c
+[2008-12-27 05:33] feat(slab_pool): add AVX SIMD vectorization pass [Sprint 2008.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: telecom-switching-core-c
